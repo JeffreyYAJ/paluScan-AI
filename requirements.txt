@@ -1,0 +1,13 @@
+
+# Serveur Web et API
+flask==3.0.0
+flask-cors==4.0.0
+
+# Intelligence Artificielle et Calcul
+tensorflow==2.15.0
+numpy==1.24.3
+
+# Traitement d'images
+Pillow==10.1.0
+
+gunicorn==21.2.0
